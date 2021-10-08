@@ -1,0 +1,7 @@
+code: xss_content_type
+description: Content type will multiple attributes
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  contentTypes:
+    - contentTypes/xss-descriptor.yaml
